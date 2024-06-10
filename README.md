@@ -1,2 +1,2 @@
 # barbershopCrm
- crm system for barbershop
+ Crm system for barbershop
